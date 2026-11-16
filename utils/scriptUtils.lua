@@ -1,0 +1,3 @@
+local scriptUtils = {}
+
+return scriptUtils

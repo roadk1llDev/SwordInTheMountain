@@ -1,0 +1,3 @@
+---@class loveImageObject
+---@field getWidth number function, params:
+---@field getHeight number function, params:
